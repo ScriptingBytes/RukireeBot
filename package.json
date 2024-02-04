@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.1",
+    "@distube/spotify": "^1.5.1",
+    "@distube/ytdl-core": "^4.13.3",
+    "@napi-rs/canvas": "^0.1.41",
+    "@napi-rs/canvas-win32-x64-msvc": "^0.1.41",
+    "axios": "^1.4.0",
+    "blessed": "^0.1.81",
+    "canvacord": "^5.4.9",
+    "chalk": "^4.1.0",
+    "discord-gamecord": "^4.4.0",
+    "discord-giveaways": "^6.0.1",
+    "discord.js": "^14.13.0",
+    "distube": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "ffmpeg-static": "^5.1.0",
+    "figlet": "^1.6.0",
+    "libsodium-wrappers": "^0.7.11",
+    "moment": "^2.29.4",
+    "mongoose": "^6.10.3",
+    "process": "^0.11.10"
+  },
+  "name": "rukiree",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "YouRock1010",
+  "license": "ISC",
+  "description": ""
+}
